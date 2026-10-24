@@ -4,7 +4,7 @@
 * **Unidad:** II — Seguridad, privacidad y control de acceso  
 * **Tema:** 2.3 — Datos sensibles, privacidad y protección de la información  
 * **Motor:** PostgreSQL 16 (Desplegado en Contenedores Podman)  
-* **Alumno:** darksitoV  
+* **Alumno:** Genaro Isaac Cárdenas Soto (@darksitoV)  
 * **Organización / Escenario:** Comercializadora Norte S.A. de C.V.  
 
 ---

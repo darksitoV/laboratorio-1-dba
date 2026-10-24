@@ -4,7 +4,7 @@
 **Unidad:** II — Seguridad, privacidad y control de acceso  
 **Tema:** 2.3 — Datos sensibles, privacidad y protección de la información  
 **Motor:** PostgreSQL 16  
-**Estudiante:** darksitoV  
+**Estudiante:** Genaro Isaac Cárdenas Soto (@darksitoV)  
 **Organización Evaluada:** Comercializadora Norte S.A. de C.V.  
 
 ---
